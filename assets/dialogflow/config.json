@@ -1,0 +1,9 @@
+{
+  "speakingRate": 0.9,
+  "pitch": 2,
+  "volumeGainDb": 0,
+  "voice": {
+    "name": "en-US-Wavenet-E",
+    "ssmlGender": "SSML_VOICE_GENDER_FEMALE"
+  }
+}
